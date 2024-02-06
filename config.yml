@@ -1,0 +1,5 @@
+# config.yml
+client_id: bd230620-1aa5-4509-858c-81e902d5c7e4
+client_secret: vD7bP6rU3uW5yT7dW7iU1wF5oX6yS5rC2mC8vF5nX0mW6sI2nG
+redirect_uri: http://localhost
+base_uri: https://sandbox-apis.bankofcyprus.com/df-boc-org-sb/sb/psd2
